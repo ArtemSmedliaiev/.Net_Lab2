@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Magazines>
+  <Magazine>
+    <MagazineID>1</MagazineID>
+    <Name>Vogue</Name>
+    <Period>7</Period>
+    <Edition>500</Edition>
+    <ReleaseDate>23.09.2023 0:00:00</ReleaseDate>
+  </Magazine>
+  <Magazine>
+    <MagazineID>2</MagazineID>
+    <Name>International</Name>
+    <Period>30</Period>
+    <Edition>10000</Edition>
+    <ReleaseDate>16.09.2021 0:00:00</ReleaseDate>
+  </Magazine>
+  <Magazine>
+    <MagazineID>3</MagazineID>
+    <Name>Times</Name>
+    <Period>7</Period>
+    <Edition>1000</Edition>
+    <ReleaseDate>02.11.2022 0:00:00</ReleaseDate>
+  </Magazine>
+  <Magazine>
+    <MagazineID>4</MagazineID>
+    <Name>Forbes</Name>
+    <Period>14</Period>
+    <Edition>1000</Edition>
+    <ReleaseDate>26.01.2022 0:00:00</ReleaseDate>
+  </Magazine>
+  <Magazine>
+    <MagazineID>5</MagazineID>
+    <Name>Cosmopolitan</Name>
+    <Period>7</Period>
+    <Edition>1000</Edition>
+    <ReleaseDate>19.10.2023 0:00:00</ReleaseDate>
+  </Magazine>
+  <Magazine>
+    <MagazineID>6</MagazineID>
+    <Name>Elle</Name>
+    <Period>30</Period>
+    <Edition>10000</Edition>
+    <ReleaseDate>29.04.2019 0:00:00</ReleaseDate>
+  </Magazine>
+  <Magazine>
+    <MagazineID>7</MagazineID>
+    <Name>Bazaar</Name>
+    <Period>7</Period>
+    <Edition>100</Edition>
+    <ReleaseDate>08.03.2024 0:00:00</ReleaseDate>
+  </Magazine>
+</Magazines>

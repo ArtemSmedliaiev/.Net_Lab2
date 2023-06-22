@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Organizations>
+  <Organization>
+    <OrganizationID>1</OrganizationID>
+    <Name>Global Autors Organization</Name>
+    <Adress>20 Great Queen St</Adress>
+    <City>London</City>
+  </Organization>
+  <Organization>
+    <OrganizationID>2</OrganizationID>
+    <Name>Autor Group</Name>
+    <Adress>95 New Cavendish St</Adress>
+    <City>London</City>
+  </Organization>
+  <Organization>
+    <OrganizationID>3</OrganizationID>
+    <Name>New York Autors Organization</Name>
+    <Adress>1201 Broadway</Adress>
+    <City>New York</City>
+  </Organization>
+  <Organization>
+    <OrganizationID>4</OrganizationID>
+    <Name>World Autors</Name>
+    <Adress>580 5th Ave Suite 1721</Adress>
+    <City>New York</City>
+  </Organization>
+  <Organization>
+    <OrganizationID>5</OrganizationID>
+    <Name>Товариство київських журналістів</Name>
+    <Adress>вул. Хрещатик 18</Adress>
+    <City>Київ</City>
+  </Organization>
+</Organizations>

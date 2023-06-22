@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <Name>Old beauty</Name>
+    <ArticleID>1</ArticleID>
+    <AutorID>2</AutorID>
+    <MagazineID>1</MagazineID>
+    <AddingDate>12.02.2019 0:00:00</AddingDate>
+  </Article>
+  <Article>
+    <Name>Sense of money</Name>
+    <ArticleID>2</ArticleID>
+    <AutorID>3</AutorID>
+    <MagazineID>2</MagazineID>
+    <AddingDate>01.11.2023 0:00:00</AddingDate>
+  </Article>
+  <Article>
+    <Name>Son of the king</Name>
+    <ArticleID>3</ArticleID>
+    <AutorID>1</AutorID>
+    <MagazineID>3</MagazineID>
+    <AddingDate>25.05.2022 0:00:00</AddingDate>
+  </Article>
+  <Article>
+    <Name>Next in fashion</Name>
+    <ArticleID>4</ArticleID>
+    <AutorID>4</AutorID>
+    <MagazineID>7</MagazineID>
+    <AddingDate>18.07.2014 0:00:00</AddingDate>
+  </Article>
+  <Article>
+    <Name>Suit essentials</Name>
+    <ArticleID>5</ArticleID>
+    <AutorID>5</AutorID>
+    <MagazineID>5</MagazineID>
+    <AddingDate>09.03.2018 0:00:00</AddingDate>
+  </Article>
+  <Article>
+    <Name>Richiest people</Name>
+    <ArticleID>6</ArticleID>
+    <AutorID>6</AutorID>
+    <MagazineID>4</MagazineID>
+    <AddingDate>14.04.2021 0:00:00</AddingDate>
+  </Article>
+  <Article>
+    <Name>Jeans importance</Name>
+    <ArticleID>7</ArticleID>
+    <AutorID>5</AutorID>
+    <MagazineID>6</MagazineID>
+    <AddingDate>12.08.2023 0:00:00</AddingDate>
+  </Article>
+</Articles>
